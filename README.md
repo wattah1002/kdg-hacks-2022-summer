@@ -3,7 +3,9 @@
 # さまっする（SUMMER x MUSCLE）
 ![](sama.png)
 
-~~https://delightful-cliff-0bb102800.1.azurestaticapps.net/~~
+https://wattah1002.github.io/kdg-hacks-2022-summer/ (1人プレイのみ可能)
+
+~~https://delightful-cliff-0bb102800.1.azurestaticapps.net/~~ (7/14よりAzure停止)
 
 __さまっする__ は，夏休みに最高にエキサイティングなエクササイズをするために作成したアプリです．
 
