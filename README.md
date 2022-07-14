@@ -3,7 +3,7 @@
 # さまっする（SUMMER x MUSCLE）
 ![](sama.png)
 
-https://delightful-cliff-0bb102800.1.azurestaticapps.net/
+~~https://delightful-cliff-0bb102800.1.azurestaticapps.net/~~
 
 __さまっする__ は，夏休みに最高にエキサイティングなエクササイズをするために作成したアプリです．
 
